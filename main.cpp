@@ -6,7 +6,7 @@
 using namespace std;
 
 string getPass(int length){
-    string chars = "qazwsxedcrfvtgbyhnujmikolpPLOKIMJUNHYBGTVFRCDEXSWZAQ0681327954";
+    string chars = "q!azw$$sxedcr*fvtg*$byhn####ujmikolpPL-OKIMJUNHY*$%BGTVFRCDEXS%W%ZAQ068132$%*7954";
     string strong = "";
     int n = chars.size();
     while(length--){
